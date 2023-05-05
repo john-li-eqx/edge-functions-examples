@@ -26,8 +26,8 @@
   path = "/*"
 
 [[edge_functions]]
-  path = "/hello"
-  function = "hello"
+  path = "/bexToken"
+  function = "bexToken"
 
 [[edge_functions]]
   path = "/geolocation"
